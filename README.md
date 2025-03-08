@@ -1,4 +1,4 @@
- # 💡 Data Science Portfolio - Poorani-Subramaniam  
+ # 💡 Data Science Portfolio - Poorani_Subramaniam  
 
 Welcome to my Data Science portfolio! 🚀  
 I have completed my **Data Science Certification from Guvi** and have worked on multiple projects involving **Python, Machine Learning, and Data Visualization.**  
