@@ -1,7 +1,17 @@
  # 💡 Data Science Portfolio - Poorani_Subramaniam  
 
+ 🔹 **Aspiring Data Scientist** | 8+ Years in **MIS Analytics** | **Python | SQL | Power BI | Machine Learning** 
+
 Welcome to my Data Science portfolio! 🚀  
-I have completed my **Data Science Certification from Guvi** and have worked on multiple projects involving **Python, Machine Learning, and Data Visualization.**  
+I have completed my **Data Science Certification from Guvi** and have worked on multiple projects involving **Python, Machine Learning, and Data Visualization.**
+
+## 🛠️ Technical Skills  
+
+🚀 **Programming:** Python (🐍 Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
+📊 **Data Visualization:** Power BI, Tableau, Matplotlib  
+🤖 **Machine Learning:** Regression, Classification, Clustering  
+🧠 **Deep Learning:** Neural Networks, TensorFlow  
+💾 **Databases & Tools:** MySQL, Excel (Advanced), AWS Basics  
 
 🔹 **[Project 1: Data Spark](https://github.com/SPoorani08/Global_Electonics_Sales_Anlaysis)**
    - **Description:** Developed a data analytics solution for the electronics retail industry, focusing on sales optimization, inventory management, and customer segmentation. Processed and cleaned data, built a MySQL database, and integrated it with Power BI for dynamic visualizations. Identified key sales trends and product performance insights to enhance business decision-making.
